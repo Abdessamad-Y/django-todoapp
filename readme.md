@@ -2,7 +2,7 @@
 
 the user can update,add and delete the tasks 
 ![image](index.JPG)
-![image](update.jpg)
+![image](update.JPG)
 
 make sure you have djnago and python installed before using the code 
 next in a terminal run the following
