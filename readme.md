@@ -1,4 +1,4 @@
-### Readme app made with django 
+### ToDo app made with django 
 
 the user can update,add and delete the tasks 
 ![image](index.JPG)
